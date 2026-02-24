@@ -127,5 +127,5 @@ Daily coding tasks
 
 👨‍💻 Author
 
-Harshal Warke
+Harshu 
 Python Learner 🚀
